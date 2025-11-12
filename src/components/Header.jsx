@@ -5,7 +5,7 @@ const Header = () => {
     <div className="w-[90%] mx-auto flex justify-between items-center mt-[30px]">
       <div className="w-[33%]">
         <div className="pt-[100px]  flex justify-between items-center gap-8 border-white boder">
-          <img className="w-[110px]" src="./public/Sloy.png" alt="" />
+          <img className="w-[110px]" src="/Sloy.png" alt="" />
           <h2 className="text-white text-[45px] text-bold">
             Your Website good enough?
           </h2>
@@ -75,15 +75,15 @@ const Header = () => {
               </clipPath>
             </defs>
           </svg> */}
-          <img className="w-[170px]" src="./public/Logo Green 2.png" alt="" />
-          <img className="w-[170px]" src="./public/Sign Green 2.png" alt="" />
-          <img className="w-[170px]" src="./public/Group.png" alt="" />
-          <img className="w-[80px]" src="./public/viva.png" alt="" />
+          <img className="w-[170px]" src="/Logo Green 2.png" alt="" />
+          <img className="w-[170px]" src="/Sign Green 2.png" alt="" />
+          <img className="w-[170px]" src="/Group.png" alt="" />
+          <img className="w-[80px]" src="/viva.png" alt="" />
         </div>
       </div>
       <div className="w-[65%] flex justify-between items-center gap-5 relative text-white">
         <div className="w-[33%]">
-          <img src="./public/video 1.png" alt="Video 1" />
+          <img src="/video 1.png" alt="Video 1" />
           <div className="border border-[#3d4449] mt-[110px] p-3">
             <svg
               width="40"
@@ -129,7 +129,7 @@ const Header = () => {
           </div>
         </div>
         <div className="w-[33%]">
-          <img className="mt-[50px]" src="./public/video 2.png" alt="Video 1" />
+          <img className="mt-[50px]" src="/video 2.png" alt="Video 1" />
           <div className="border border-[#3d4449] mt-[60px] p-3">
             <svg
               width="37"
@@ -187,7 +187,7 @@ const Header = () => {
           </div>
         </div>
         <div className="w-[33%]">
-          <img src="./public/video 3.png" alt="Video 1" />
+          <img src="/video 3.png" alt="Video 1" />
           <div className=" border border-[#3d4449] mt-[110px] p-3">
             <svg
               width="40"
